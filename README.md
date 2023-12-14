@@ -1,5 +1,5 @@
-<h1 align="center">Hackers-X Unblocked Websites and More</h1>
-<p align="center">Explore More on [TikTok](https://www.tiktok.com/@theofficial_hackersx) for Incredible Hacks!</p>
+<h1 align="center">Natserps Unblocked Websites and More</h1>
+<p align="center">
 <p align="center">
   <a href="link_to_license">
     <img src="https://img.shields.io/badge/License-CC0-blue.svg" alt="License">
@@ -8,10 +8,7 @@
 <img src="https://img.shields.io/badge/Tested%20on-CHROMEBOOK-informational" alt="Tested on">
 </p>
 
-### Engage with My TikTok and Bypass Links
-- Make sure to follow me on [TikTok](https://www.tiktok.com/@theofficial_hackersx). Once I hit 10 followers, I'll share the first link.
-- This is my new account following a 2FA lockout—no further inquiries, please.
-
+### 
 
 ### Instructions
 I didn't originate this method, but I'm contributing to its improvement.
@@ -30,7 +27,7 @@ I didn't originate this method, but I'm contributing to its improvement.
 <br>
 <br>
 
-## Unblocker Websites
+## Unblocked Websites
 ### Additional Sites:
 - [ubhub](https://ubhub-a358941cfbbb.herokuapp.com/ocean) (Working) 
 - [study.organization](http://study.organization.tomahawkchurch.org/) (Very Likely Working)
